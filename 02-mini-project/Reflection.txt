@@ -1,0 +1,7 @@
+
+The lessons were beginner friendly to follow and we could utilized each weeks learning throughout coding the game which was interesting. I thought that it was also quite fun to come up with solutions such as the counter to give some pause in-between each transition. It was also pretty interesting to use what we have learnt to create a blood splattering effect.
+
+I felt that the for loop was always quite confusing for me but after this project, I realized that it was not as hard as I thought it would be once i got the main logic down.
+
+
+For the mini project I worked on the score count, the end screen with the final score after death, blood splattering, and the sound for the game. this is my first time coding and i was surprised that me and my teammate could actually create a game with 6 weeks of knowledge, it felt quite fulfilling. 
