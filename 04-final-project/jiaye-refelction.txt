@@ -1,0 +1,9 @@
+for the final project me and Colleen made a interactive game where players uses their voice to interact. Player needs to shoo off other cats from the center cat Fon, while not disturbing her as well. Player uses keyboard for character movement and shoo off cats with their sound
+
+The set up was pretty easy where we set up the mic input and linked it to the ring size. we implemented keyboard control for the player. We randomized the  enemies colour with class and arrays matching the index of the colour of the ring. We then spawned the enemies with a timer and a for loop, moving them to the center and reversing the code once they collide with the players radius. We realized that the sensitivity of different people's mic can be different so we added in a slider to control for different mics. 
+
+After the critique/presentation, we decided to make the game endless, thus we took out the timer and the score function and instead, we added in a difficulty multiplier which spawns more enemy cats as time pass by. We had to use AI for this part of the math, same for the timer function at the start of the developing stage.
+
+We wanted to use p5 play  because they have so much code that would make like so much easier for us and more fun to implement for out game as well. We wanted to make the cat rotate as the cursor point (tried to code and did not work) and collision will be much simpler. However, since there is no mic interaction, we decided to stick to p5js.
+
+Overall it was a fun game sprint/jam session for someone like me with no background experience coming from animation background, being able to apply what we have learnt and create a game out of it :))
